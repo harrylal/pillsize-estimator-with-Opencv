@@ -36,6 +36,8 @@ cd pill-dimension-measurement
 Edit the IMAGE_PATH and the PPM variable in the script to specify the path to your input image and your PPM value of the camera:
 ```bash
 IMAGE_PATH = 'your_image.jpg'
+PPMR = 0.1015625 # chage according to your camera
+
 ```
 
 
