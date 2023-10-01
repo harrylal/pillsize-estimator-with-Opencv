@@ -33,7 +33,7 @@ git clone https://github.com/yourusername/pill-dimension-measurement.git
 cd pill-dimension-measurement
 ```
 
-Edit the IMAGE_PATH variable in the script to specify the path to your input image:
+Edit the IMAGE_PATH and the PPM variable in the script to specify the path to your input image and your PPM value of the camera:
 ```bash
 IMAGE_PATH = 'your_image.jpg'
 ```
